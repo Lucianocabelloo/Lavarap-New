@@ -1,0 +1,13 @@
+h2{
+    text-shadow: 1px 1px black;
+}
+
+.carousel.carousel-slider{
+    height: 50vh;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.thumbs-wrapper{
+    text-align: center;
+}
